@@ -1,0 +1,98 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.11.1)  1 NOV 2020 16:41
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**CiceroGloss.tex
+(./CiceroGloss.tex
+LaTeX2e <2018-12-01>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tree-dvips/lingmacros.sty
+\c@enums=\count88
+\widelabel=\dimen103
+\c@tempcnt=\count89
+\c@enumsi=\count90
+\eeindent=\dimen104
+)
+(./CiceroGloss.aux)
+\openout1 = `CiceroGloss.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 33.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 33.
+
+Overfull \hbox (29.06007pt too wide) in paragraph at lines 33--33
+[] [][] 
+ []
+
+
+Overfull \hbox (11.3901pt too wide) in paragraph at lines 33--33
+[] [][] 
+ []
+
+! Extra alignment tab has been changed to \cr.
+<template> \unskip \hfil }\ \endtemplate 
+                                         
+l.33 ...ng fire and sword to you and this city."}}
+                                                  
+? 
+! Extra alignment tab has been changed to \cr.
+<template> \unskip \hfil }\ \endtemplate 
+                                         
+l.33 ...ng fire and sword to you and this city."}}
+                                                  
+? 
+
+Overfull \hbox (42.20007pt too wide) in paragraph at lines 39--39
+[] [][] 
+ []
+
+[1
+
+] (./CiceroGloss.aux) ) 
+Here is how much of TeX's memory you used:
+ 279 strings out of 494894
+ 3171 string characters out of 6177062
+ 64093 words of memory out of 5000000
+ 4272 multiletter control sequences out of 15000+600000
+ 6400 words of font info for 26 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 22i,8n,18p,362b,209s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on CiceroGloss.pdf (1 page).
