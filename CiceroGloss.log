@@ -1,44 +1,60 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.11.1)  1 NOV 2020 16:41
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.10.23)  2 NOV 2020 08:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **CiceroGloss.tex
 (./CiceroGloss.tex
-LaTeX2e <2018-12-01>
-(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03>
+(/usr/local/texlive/2020basic/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2020basic/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
+\c@part=\count171
+\c@section=\count172
+\c@subsection=\count173
+\c@subsubsection=\count174
+\c@paragraph=\count175
+\c@subparagraph=\count176
+\c@figure=\count177
+\c@table=\count178
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
 )
-(/usr/share/texlive/texmf-dist/tex/latex/tree-dvips/lingmacros.sty
-\c@enums=\count88
-\widelabel=\dimen103
-\c@tempcnt=\count89
-\c@enumsi=\count90
-\eeindent=\dimen104
+(/usr/local/texlive/2020basic/texmf-dist/tex/latex/tree-dvips/lingmacros.sty
+\c@enums=\count179
+\widelabel=\dimen139
+\c@tempcnt=\count180
+\c@enumsi=\count181
+\eeindent=\dimen140
 )
-(./CiceroGloss.aux)
+(/usr/local/texlive/2020basic/texmf-dist/tex/latex/l3backend/l3backend-xetex.de
+f
+File: l3backend-xetex.def 2020-09-24 L3 backend support: XeTeX
+\g__graphics_track_int=\count182
+\l__pdf_internal_box=\box47
+\g__pdf_backend_object_int=\count183
+\g__pdf_backend_annotation_int=\count184
+) (./CiceroGloss.aux)
 \openout1 = `CiceroGloss.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8
+.
+
+(/usr/local/texlive/2020basic/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
 LaTeX Font Info:    ... okay on input line 8.
 LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 8.
 LaTeX Font Info:    ... okay on input line 8.
@@ -83,16 +99,21 @@ Overfull \hbox (42.20007pt too wide) in paragraph at lines 39--39
 [] [][] 
  []
 
+
+Overfull \hbox (22.20013pt too wide) in paragraph at lines 43--43
+[] [][] 
+ []
+
 [1
 
 ] (./CiceroGloss.aux) ) 
 Here is how much of TeX's memory you used:
- 279 strings out of 494894
- 3171 string characters out of 6177062
- 64093 words of memory out of 5000000
- 4272 multiletter control sequences out of 15000+600000
- 6400 words of font info for 26 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 22i,8n,18p,362b,209s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 506 strings out of 478970
+ 9642 string characters out of 5868974
+ 286313 words of memory out of 5000000
+ 19954 multiletter control sequences out of 15000+600000
+ 537848 words of font info for 41 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 43i,8n,49p,380b,209s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on CiceroGloss.pdf (1 page).
